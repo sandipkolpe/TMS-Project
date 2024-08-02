@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="10" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-02T14:01:08 IST" name="TMS-Project" finished-at="2024-08-02T14:01:28 IST" duration-ms="20587">
+    <groups>
+    </groups>
+    <test started-at="2024-08-02T14:01:08 IST" name="TMSBaseClass" finished-at="2024-08-02T14:01:28 IST" duration-ms="20587">
+      <class name="com.tms.dataPages.TC_LoginTest_001">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tms.dataPages.TC_LoginTest_001@1ed6388a]" started-at="2024-08-02T14:01:08 IST" name="setup" finished-at="2024-08-02T14:01:12 IST" duration-ms="4003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.tms.dataPages.TC_LoginTest_001@1ed6388a]" started-at="2024-08-02T14:01:12 IST" name="loginTest" finished-at="2024-08-02T14:01:12 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="pageTitle()[pri:0, instance:com.tms.dataPages.TC_LoginTest_001@1ed6388a]" started-at="2024-08-02T14:01:12 IST" name="pageTitle" finished-at="2024-08-02T14:01:15 IST" duration-ms="3385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitle -->
+        <test-method signature="verifyHeader()[pri:0, instance:com.tms.dataPages.TC_LoginTest_001@1ed6388a]" started-at="2024-08-02T14:01:15 IST" name="verifyHeader" finished-at="2024-08-02T14:01:19 IST" duration-ms="3777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeader -->
+        <test-method signature="verifyLoginTitle()[pri:0, instance:com.tms.dataPages.TC_LoginTest_001@1ed6388a]" started-at="2024-08-02T14:01:19 IST" name="verifyLoginTitle" finished-at="2024-08-02T14:01:24 IST" duration-ms="5096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTitle -->
+        <test-method signature="usernameInputField()[pri:0, instance:com.tms.dataPages.TC_LoginTest_001@1ed6388a]" started-at="2024-08-02T14:01:24 IST" name="usernameInputField" finished-at="2024-08-02T14:01:25 IST" duration-ms="421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usernameInputField -->
+        <test-method signature="passwordInputField()[pri:0, instance:com.tms.dataPages.TC_LoginTest_001@1ed6388a]" started-at="2024-08-02T14:01:25 IST" name="passwordInputField" finished-at="2024-08-02T14:01:25 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passwordInputField -->
+        <test-method signature="eyeIcon()[pri:0, instance:com.tms.dataPages.TC_LoginTest_001@1ed6388a]" started-at="2024-08-02T14:01:25 IST" name="eyeIcon" finished-at="2024-08-02T14:01:25 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eyeIcon -->
+        <test-method signature="verifyCheckBox()[pri:0, instance:com.tms.dataPages.TC_LoginTest_001@1ed6388a]" started-at="2024-08-02T14:01:25 IST" name="verifyCheckBox" finished-at="2024-08-02T14:01:25 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckBox -->
+        <test-method signature="verifyLoginButton()[pri:0, instance:com.tms.dataPages.TC_LoginTest_001@1ed6388a]" started-at="2024-08-02T14:01:25 IST" name="verifyLoginButton" finished-at="2024-08-02T14:01:25 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tms.dataPages.TC_LoginTest_001@1ed6388a]" started-at="2024-08-02T14:01:25 IST" name="tearDown" finished-at="2024-08-02T14:01:28 IST" duration-ms="3174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tms.dataPages.TC_LoginTest_001 -->
+    </test> <!-- TMSBaseClass -->
+  </suite> <!-- TMS-Project -->
+</testng-results>
